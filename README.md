@@ -1,0 +1,2 @@
+# iiec-task-1
+In this project the aim is to creat a Python program which can instruct your system to open or run some of their apps (like notepad,vlc,window media player,chrome,calendar,camera,calculator,firefox,maps,word pad,paint etc.) , and it also can open some social media webapps by using firefox browser(like Facebook,youtube,telegram,twitter,whatsapp,Instagram and also google search engine).
